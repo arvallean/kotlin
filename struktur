@@ -1,0 +1,15 @@
+your-bot/
+│
+├── commands/
+│   ├── moderation/
+│   │   ├── kick.js
+│   │   └── ban.js
+│   ├── fun/
+│   │   └── ping.js
+│   └── utility/
+│       └── help.js
+│
+├── config.json
+├── deploy-commands.js
+├── index.js
+└── package.json
